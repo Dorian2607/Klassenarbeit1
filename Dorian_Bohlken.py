@@ -7,13 +7,13 @@
 #          Beim Starten des Programm leuchten alle LED´s einmal für 1 Sekunde auf und gehen danach wieder aus.
 # Hardware:ESP32-S3
 #          AHT10 Temperatursensor SCL=9 / SDA=8
-#           ledgn1 = Pin 15 
+#           ledgn1 = Pin 15
 #           ledgn2 = Pin 16
-#           ledge1 = Pin 6 
+#           ledge1 = Pin 6
 #           ledge2 = Pin 7
-#           ledrt1 = Pin 4 
+#           ledrt1 = Pin 4
 #           ledrt2 = Pin 5
-#           taster = Pin17
+#           taster = Pin 17
 # -------------------------------------------
 
 
